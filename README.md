@@ -1,2 +1,4 @@
 # React
-React learning
+## React learning.
+
+Learning React with freecodecamp (YouTube channel)
